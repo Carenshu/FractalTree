@@ -9,7 +9,7 @@ public void setup()
 public void draw() 
 {   
         background(255);   
-        stroke(0,0,0);   
+        stroke(51,51,0);   
         line(320,480,320,380);   
         drawBranches(320,380,100,3*Math.PI/2);  
 } 
